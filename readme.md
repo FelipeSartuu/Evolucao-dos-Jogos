@@ -27,7 +27,7 @@ Partindo para a parte do conteúdo em si, temos a intrução, na qual é falado 
 Vamos para o conteúdo principal... As especificações das gerações é o principal do site, e são através delas que são passadas as informações de cada geração dos jogos, dês da primeira até a nona. Cada uma das gerações são compostas por imagens para o usuário ter um conteúdo visual para acessar enquanto lê as informações das gerações.
 
 
-###  💸 📌 Conclusão
+### 📌 Conclusão
 
 Ao final, você chegará na conclusão, na qual tem seu assunto voltado a uma revisão de tudo visto no decorrer do site e uma conclusão, na qual fala da importância de todo assunto abordado anteriormente e o quão impactante os jogos são para a economia e para o mundo.
 
