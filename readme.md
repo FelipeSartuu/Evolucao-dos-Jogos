@@ -1,6 +1,6 @@
 # Evolução dos Jogos
 
-Acesso o projeto [Clicando Aqui](https://www.instagram.com/_fe.sarto/)
+Acesso o projeto [Clicando Aqui](https://www.instagram.com/_fe.sarto/)  ← ← ← ← ←
 
 Projeto Acadêmico desenvolvido no **Projeto de ano letivo da Senac**. Esse projeto tem a finalidade de mostrar a importância e o impacto dos jogos na economia e no mercado motrando a evolução deles. O projeto foi usado como um meio de ajudar a acabar com o olhar de preconceito que algumas pessoas tem sobre os jogos/video-games.
 
