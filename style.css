@@ -747,7 +747,7 @@ ul.listagen-lista {
     .listagen-lista-item:hover {
         padding-top: none;
         background-color: yellow;
-        transform: none
+        transform: none;
     }
 
     
