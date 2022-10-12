@@ -1,6 +1,6 @@
 # Evolução dos Jogos
 
-Acesso o projeto [Clicando Aqui](https://www.instagram.com/_fe.sarto/)  ← ← ← ← ←
+Acesso o projeto [Clicando Aqui](https://felipesartuu.github.io/Evolucao-dos-Jogos/)  ← ← ← ← ←
 
 Projeto Acadêmico desenvolvido no **Projeto de ano letivo da Senac**. Esse projeto tem a finalidade de mostrar a importância e o impacto dos jogos na economia e no mercado motrando a evolução deles. O projeto foi usado como um meio de ajudar a acabar com o olhar de preconceito que algumas pessoas tem sobre os jogos/video-games.
 
@@ -35,11 +35,11 @@ Ao final, você chegará na conclusão, na qual tem seu assunto voltado a uma re
 
 ### ✒️ Autores
 
-* Alexandre Fabricio Cintra (Produção Textual)
-* Caio Raja (Responsável pelas Imagens)
-* Carlos Eduardo Blanco (Responsável pelas Imagens)
-* Felipe Sartorato Talarico Alfano (Desenvolvedor do Site)
-* Lenin Rodrigues (Produção Textual)
-* Lucas Tonin (Produção Textual)
-* Rafael dos Santos Cruz Filho (Designer)
+* Alexandre Fabricio Cintra
+* Caio Raja
+* Carlos Eduardo Blanco
+* Felipe Sartorato Talarico Alfano
+* Lenin Rodrigues
+* Lucas Tonin
+* Rafael dos Santos Cruz Filho
 
