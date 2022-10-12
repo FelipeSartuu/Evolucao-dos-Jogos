@@ -36,10 +36,10 @@ Ao final, você chegará na conclusão, na qual tem seu assunto voltado a uma re
 ### ✒️ Autores
 
 * Alexandre Fabricio Cintra
-* Caio Raja (Responsável pelas Imagens)
+* Caio Raja
 * Carlos Eduardo Blanco
 * Felipe Sartorato Talarico Alfano
 * Lenin Rodrigues
-* Lucas Tonin (Produção Textual)
+* Lucas Tonin
 * Rafael dos Santos Cruz Filho
 
