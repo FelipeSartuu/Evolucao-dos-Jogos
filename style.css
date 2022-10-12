@@ -95,9 +95,8 @@ h1 {
 
 .section-pacman {
     position: absolute;
-    margin: auto;
     left: 37%;
-    top: 50%;
+    top: 350px;
 }
 
 @keyframes up {
@@ -707,7 +706,6 @@ ul.listagen-lista {
 
 @media (max-width: 591px) {
     .section-pacman {
-        top: 50%;
         left: 20%;
     }
     h1 {
@@ -736,7 +734,6 @@ ul.listagen-lista {
     }
 
     .section-pacman {
-        top: 45%;
         left: 16%;
     }
 
@@ -756,8 +753,8 @@ ul.listagen-lista {
 
 @media (max-width: 407px)  {
     .section-pacman {
-        top: 60%;
-        left: 35%;
+        left: 34%;
+        top: 320px;
     }
 
     .gen-tittle h2 {
@@ -767,11 +764,21 @@ ul.listagen-lista {
     .dot  {
         box-shadow: 40px 0 0 #ffee07,  80px 0 0 #ffee07,  120px 0 0 #ffee07 
     }
-}
 
-
-@media (max-width: 370px) {
     h1 {
         font-size: 2.7em;
+    }
+}
+
+@media (max-width: 364px) {
+    .section-pacman {
+        left: 34%;
+        top: 400px;
+    }
+}
+
+@media (min-width: 2560px) {
+    .section-pacman  {
+        left: 42.5%;
     }
 }
