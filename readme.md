@@ -35,11 +35,11 @@ Ao final, você chegará na conclusão, na qual tem seu assunto voltado a uma re
 
 ### ✒️ Autores
 
-* Alexandre Fabricio Cintra (Produção Textual)
+* Alexandre Fabricio Cintra
 * Caio Raja (Responsável pelas Imagens)
-* Carlos Eduardo Blanco (Responsável pelas Imagens)
-* Felipe Sartorato Talarico Alfano (Desenvolvedor do Site)
-* Lenin Rodrigues (Produção Textual)
+* Carlos Eduardo Blanco
+* Felipe Sartorato Talarico Alfano
+* Lenin Rodrigues
 * Lucas Tonin (Produção Textual)
-* Rafael dos Santos Cruz Filho (Designer)
+* Rafael dos Santos Cruz Filho
 
