@@ -527,6 +527,42 @@ ul.listagen-lista {
 
 
 
+.button-up { 
+    position: fixed;
+    right: 1%;
+    bottom: 3%;
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+    font-weight: bolder;
+    color: blue;
+    border-radius: 10px;
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    transition: 0.5s;
+}
+
+.button-up:hover {
+    background-color: rgb(207, 207, 0);
+}
+
+.button-up:active {
+    background-color: rgb(143, 143, 0);
+}
+
+.button-up img {
+    width: 20px;
+}
+
+@keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 15px); }
+    100%   { transform: translate(0, -0px); }   
+}
+
+
 
 
 
@@ -709,6 +745,8 @@ ul.listagen-lista {
 
 
 
+
+
 @media (max-width:735px) {
 
     h1 {
@@ -763,7 +801,15 @@ ul.listagen-lista {
         transform: none;
     }
 
+    .button-up { 
+        right: 1.5%;
+        bottom: 3%;
+    }
     
+    .button-up img {
+        width: 15px;
+    }
+
 }
 
 
@@ -785,6 +831,9 @@ ul.listagen-lista {
         font-size: 2.7em;
     }
 }
+
+
+
 
 @media (max-width: 364px) {
     .section-pacman {
