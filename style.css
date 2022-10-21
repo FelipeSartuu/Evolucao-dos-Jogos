@@ -787,8 +787,13 @@ ul.listagen-lista {
         font-size: 3em;
     }
 
+    .dot  {
+        box-shadow: 40px 0 0 #ffee07,  80px 0 0 #ffee07,  120px 0 0 #ffee07 
+    }
+
     .section-pacman {
-        left: 16%;
+        left: 34%;
+        top: 320px;
     }
 
     .gen-conteudo .gen-image#img7-3, .gen-conteudo .gen-image#img7-2 {
@@ -814,17 +819,9 @@ ul.listagen-lista {
 
 
 @media (max-width: 407px)  {
-    .section-pacman {
-        left: 34%;
-        top: 320px;
-    }
 
     .gen-tittle h2 {
         font-size: 1.2em;
-    }
-
-    .dot  {
-        box-shadow: 40px 0 0 #ffee07,  80px 0 0 #ffee07,  120px 0 0 #ffee07 
     }
 
     h1 {
