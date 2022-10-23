@@ -542,6 +542,7 @@ ul.listagen-lista {
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     transition: 0.5s;
+    display: none;
 }
 
 .button-up:hover {
