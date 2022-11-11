@@ -547,6 +547,7 @@ ul.listagen-lista {
 
 .button-up:hover {
     background-color: rgb(207, 207, 0);
+    cursor: pointer;
 }
 
 .button-up:active {
