@@ -2,7 +2,7 @@
 
 Acesso o projeto [Clicando Aqui](https://felipesartuu.github.io/Evolucao-dos-Jogos/)  ← ← ← ← ←
 
-Projeto Acadêmico desenvolvido no **Projeto de ano letivo da Senac**. Esse projeto tem a finalidade de mostrar a importância e o impacto dos jogos na economia e no mercado motrando a evolução deles. O projeto foi usado como um meio de ajudar a acabar com o olhar de preconceito que algumas pessoas tem sobre os jogos/video-games.
+Projeto Acadêmico desenvolvido no **Projeto de ano letivo da Senac**. Esse projeto tem a finalidade de mostrar a importância e o impacto dos jogos na economia e no mercado mostrando sua evolução dele. O projeto foi usado como um meio de ajudar a acabar com o olhar de preconceito que algumas pessoas tem sobre os jogos/video-games.
 
 ![Evolucao dos Jogos - Github image](https://user-images.githubusercontent.com/77643258/194735474-61a2820d-7091-4795-a58f-61aaa1648c4a.png)
 
