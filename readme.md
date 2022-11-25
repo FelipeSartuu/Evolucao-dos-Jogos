@@ -39,6 +39,7 @@ Ao final, você chegará na conclusão, na qual tem seu assunto voltado a uma re
 * Caio Raja
 * Carlos Eduardo Blanco
 * Felipe Sartorato Talarico Alfano
+* Gabriel Kraemer
 * Lenin Rodrigues
 * Lucas Tonin
 * Rafael dos Santos Cruz Filho
